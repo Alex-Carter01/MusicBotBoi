@@ -2,6 +2,7 @@
 Java program designed to compose 'random' music which still follows back's rules for a choral arrangement
 
 *Copy of Conversion Chart*
+
 1		C	1
 2		Cs	1
 3		D	1
@@ -86,3 +87,5 @@ Java program designed to compose 'random' music which still follows back's rules
 82		A	7
 83		As	7
 84		B	7
+
+doesnt seems to like newlines
