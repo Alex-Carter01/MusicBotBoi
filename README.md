@@ -1,5 +1,6 @@
 # MusicBotBoi
 Java program designed to compose 'random' music which still follows bach's rules for a choral arrangement
+current version on work computer- note to self, upload it
 
 *Copy of Conversion Chart*
 
